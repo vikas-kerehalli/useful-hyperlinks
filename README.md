@@ -45,3 +45,11 @@ Seaborn Documentation(https://seaborn.pydata.org/): Statistical data visualizati
 <br>
 Plotly Documentation(https://plotly.com/python/): Build interactive visualizations
 <br>
+https://hvplot.holoviz.org/en/docs/latest/
+<br>
+https://hvplot.holoviz.org/en/docs/latest/ref/api/manual/hvplot.hvPlot.hist.html
+<br>
+https://hvplot.holoviz.org/en/docs/latest/ref/api/manual/hvplot.hvPlot.box.html
+<br>
+Plotly 3D Scatter(https://plotly.com/python/3d-scatter-plots/): Create interactive 3D visualizations
+<br>

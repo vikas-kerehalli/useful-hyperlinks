@@ -59,3 +59,6 @@ https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html
 https://matplotlib.org/stable/tutorials/lifecycle.html
 <br>
 https://www.data-to-viz.com/
+
+<br>
+https://github.com/udacity/cd0024-project-starter

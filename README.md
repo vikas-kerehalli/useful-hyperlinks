@@ -36,3 +36,12 @@ https://pandas.pydata.org/docs/user_guide/reshaping.html
 
 Course
 https://www.kaggle.com/learn/pandas
+
+Additional Resources
+<br>
+Matplotlib Documentation(https://matplotlib.org/stable/users/index.html): Create basic static plots
+<br>
+Seaborn Documentation(https://seaborn.pydata.org/): Statistical data visualization
+<br>
+Plotly Documentation(https://plotly.com/python/): Build interactive visualizations
+<br>

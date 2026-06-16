@@ -6,3 +6,10 @@ https://github.com/public-apis/public-apis?tab=readme-ov-file
 
 HackerRank
 https://www.hackerrank.com/domains/python
+
+Getting started pandas
+https://pandas.pydata.org/docs/getting_started/index.html
+
+pandas documentation
+https://pandas.pydata.org/docs/
+

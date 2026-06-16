@@ -29,3 +29,10 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot_table.html
+
+https://pandas.pydata.org/docs/user_guide/groupby.html
+
+https://pandas.pydata.org/docs/user_guide/reshaping.html
+
+Course
+https://www.kaggle.com/learn/pandas

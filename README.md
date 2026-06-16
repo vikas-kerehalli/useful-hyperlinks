@@ -63,3 +63,5 @@ https://www.data-to-viz.com/
 <br>
 https://github.com/udacity/cd0024-project-starter
 https://github.com/udacity/cd0024-demos-and-exercises
+
+https://static.realpython.com/python-cheatsheet.pdf

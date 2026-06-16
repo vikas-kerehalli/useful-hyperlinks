@@ -23,3 +23,9 @@ Polars user guide
 https://docs.pola.rs/
 
 https://realpython.com/polars-python/
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot_table.html

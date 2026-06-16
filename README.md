@@ -53,3 +53,9 @@ https://hvplot.holoviz.org/en/docs/latest/ref/api/manual/hvplot.hvPlot.box.html
 <br>
 Plotly 3D Scatter(https://plotly.com/python/3d-scatter-plots/): Create interactive 3D visualizations
 <br>
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html
+<br>
+
+https://matplotlib.org/stable/tutorials/lifecycle.html
+<br>
+https://www.data-to-viz.com/
